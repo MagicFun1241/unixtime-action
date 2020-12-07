@@ -1,4 +1,4 @@
-name: 'Unixtime'
+name: 'Unixtime stamp'
 description: 'Get current unixtime'
 
 outputs:

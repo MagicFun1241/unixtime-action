@@ -1,0 +1,10 @@
+name: 'Unixtime'
+description: 'Get current unixtime'
+
+outputs:
+  time:
+    description: 'Time stamp'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
